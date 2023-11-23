@@ -9,8 +9,6 @@ Anaconda - Python 3.7
 ### Step 2: In circular swapping, the value of the first variable is assigned to the second variable
 ### Step 3: Get the value from the user for the number of rotation
 ### Step 4: Using the slicing concept rotate the list
-Using the slicing concept rotate the list
-
 ### Step 5: Print both the values it would be circulated 
 ### Step 6: End the program
 
